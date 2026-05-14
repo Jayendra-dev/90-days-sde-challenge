@@ -1,4 +1,4 @@
-# 90 Days SDE Challenge – BA to 50 LPA 🔥
+# 90 Days SDE Challenge – BA to problem solver.
 
 **Name:** Jayendra Kumar
 **Background:** BA + O-Level
