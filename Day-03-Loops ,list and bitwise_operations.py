@@ -1,11 +1,11 @@
-Day 3: Loops, Lists & Bitwise Operators Complete 💚
+# 90 Days SDE Challenge – BA to SDE 
 
-Topics Covered:
-1. Bitwise: &, |, ^, ~, <<, >>, Even/Odd check, XOR Swap
-2. Lists: Find largest element using for loop
-3. Patterns: Star triangle using nested loops
 
-Progress: 3/90 Days | 
-Goal:Become a problem solver.
-Next: Day 4 - Functions & Recursion
-#Python #DSA #Consistency 
+
+## Progress: 3/90 Days ✅
+- Day 1: Basics - Hello World, I/O
+- Day 2: Variables - Operators, Type Conversion, == vs is  
+- Day 3: Loops & Bitwise - For/While, Lists, &, |, ^, <<, >>
+
+## Goal: 600 Day Green GitHub Streak → FAANG SDE
+**Consistency > Intensity** 💚 | **Next: Day 4 - **Functions ad recursions**
